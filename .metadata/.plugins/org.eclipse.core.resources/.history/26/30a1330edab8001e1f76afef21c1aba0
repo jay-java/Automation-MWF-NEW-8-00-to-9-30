@@ -1,0 +1,13 @@
+package core;
+class A{
+	public void call() {
+		System.out.println("call function in A class");
+	}
+}
+public class P005_UserInput {
+	public static void main(String[] args) {
+		int a = 12,b= 56;
+		System.out.println(a+b);
+		
+	}
+}
