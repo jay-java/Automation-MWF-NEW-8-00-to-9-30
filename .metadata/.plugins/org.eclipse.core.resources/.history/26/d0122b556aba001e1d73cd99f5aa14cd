@@ -1,0 +1,16 @@
+package core;
+//1.for(initialization; condition; increment/decrement)
+//2.while(condition) {body}
+//3.do{body} while(condition);
+//4.for each(){}
+public class P007_Loops {
+	public static void main(String[] args) {
+		for(int i=1;i<=10;i++) {
+			System.out.println(i);
+		}
+		int j=1;
+		while(j<=10) {
+			System.out.println(j);
+		}
+	}
+}
