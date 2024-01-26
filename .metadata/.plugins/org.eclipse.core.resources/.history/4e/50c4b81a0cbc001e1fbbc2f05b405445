@@ -1,0 +1,15 @@
+package core;
+
+class AB{
+	public void call() {
+		System.out.println("hello call fdunction");
+		
+	}
+	
+}
+public class P009_Functions {
+	public static void main(String[] args) {
+		System.out.println("hello user");
+		System.out.println("user 2");
+	}
+}

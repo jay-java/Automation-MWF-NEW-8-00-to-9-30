@@ -1,0 +1,7 @@
+package core;
+
+public class P008_Pattern {
+	public static void main(String[] args) {
+		
+	}
+}

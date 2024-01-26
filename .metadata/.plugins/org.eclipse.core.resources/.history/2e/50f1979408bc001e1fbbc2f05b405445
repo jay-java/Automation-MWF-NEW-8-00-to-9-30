@@ -1,0 +1,22 @@
+package core;
+
+import java.util.Scanner;
+
+public class P008_Pattern {
+	public static void main(String[] args) {
+		for (int i = 10; i >= 1; i--) {
+			System.out.println(i);
+		}
+		Scanner sc = new Scanner(System.in);
+		System.out.print("enter number : ");
+		int num = sc.nextInt();
+		for (int i = 1; i <= 10; i++) {
+			System.out.println(num + " X " + i + " = " + (i * num));
+		}
+		System.out.println("table using while loop");
+		int j =1;
+		while(j<=10) {
+			System.out.println();
+		}
+	}
+}
