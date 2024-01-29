@@ -1,0 +1,10 @@
+package core;
+
+public class P010_Array {
+	public static void main(String[] args) {
+		int a = 10;
+		System.out.println(a);
+		int i[]= {1,2,3,4,5,6};
+		
+	}
+}
