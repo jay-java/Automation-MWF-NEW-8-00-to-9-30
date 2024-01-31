@@ -1,0 +1,11 @@
+package core;
+class User{
+	 User(){
+		
+	}
+}
+public class P013_Constructor {
+	public static void main(String[] args) {
+		
+	}
+}

@@ -1,0 +1,24 @@
+package core;
+class User{
+	int i;
+	String name;
+	User(){
+		System.out.println("default cons");
+	}
+	User(int i){
+		System.out.println("para : "+i);
+	}
+	User(String name){
+		System.out.println("para : "+name);
+	}
+		
+	public void call() {
+		System.out.println("call function");
+	}
+}
+public class P013_Constructor {
+	public static void main(String[] args) {
+		User u1 = new User("java");
+		
+	}
+}

@@ -1,0 +1,14 @@
+package core;
+class User{
+	int i;
+	String name;
+	
+	User(){
+		
+	}
+}
+public class P013_Constructor {
+	public static void main(String[] args) {
+		
+	}
+}
