@@ -1,0 +1,11 @@
+package core;
+class Poly{
+	public void call() {
+		System.out.println("call 1 function");
+	}
+}
+public class P015_Polymorphism {
+	public static void main(String[] args) {
+		
+	}
+}

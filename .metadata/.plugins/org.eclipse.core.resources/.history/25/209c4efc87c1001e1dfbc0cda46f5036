@@ -1,0 +1,9 @@
+package core;
+class Poly{
+	
+}
+public class P015_Polymorphism {
+	public static void main(String[] args) {
+		
+	}
+}

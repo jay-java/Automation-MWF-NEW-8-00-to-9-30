@@ -1,0 +1,15 @@
+package core;
+class Student{
+	int id;
+	String name;
+	double per;
+	static String cname = "TOPS";
+}
+public class P012_Static {
+	static {
+		System.out.println("hello static block");
+	}
+	public static void main(String[] args) {
+		
+	}
+}
