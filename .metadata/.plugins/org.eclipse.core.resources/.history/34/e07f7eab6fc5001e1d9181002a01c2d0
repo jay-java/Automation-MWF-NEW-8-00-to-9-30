@@ -1,0 +1,15 @@
+package core;
+class Laptop{
+	int ram;
+	int storage;
+	double display;
+	String model;
+	Laptop(int ram,int storage,double display,String model){
+		
+	}
+}
+public class P017_Encapsulation {
+	public static void main(String[] args) {
+		
+	}
+}
