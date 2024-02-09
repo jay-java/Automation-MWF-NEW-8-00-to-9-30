@@ -1,0 +1,14 @@
+package core;
+interface inter1{
+	
+}
+class CallInterface{
+	public void run() {
+		System.out.println("run funciton in call class");
+	}
+}
+public class P019_interface {
+	public static void main(String[] args) {
+		
+	}
+}

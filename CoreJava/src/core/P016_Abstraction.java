@@ -6,6 +6,9 @@ abstract class RBI{
 	public static void repoRate() {
 		System.out.println("repoRate +-4%");
 	}
+	public void abc() {
+		
+	}
 }
 class SBI extends RBI{
 	public void SA() {
@@ -37,6 +40,7 @@ public class P016_Abstraction {
 		SBI s = new SBI();
 		s.SA();
 		s.HL();
+		s.repoRate();
 		PNB p = new PNB();
 		p.SA();
 		p.HL();

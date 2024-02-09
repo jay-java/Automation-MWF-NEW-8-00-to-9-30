@@ -1,0 +1,24 @@
+package core;
+interface inter1{
+	public void call();
+	public static void calling() {
+		System.out.println("static in interface");
+	}
+	
+}
+interface inter2{
+	public void call1();
+	public static void calling1() {
+		System.out.println("static in interface");
+	}
+}
+class CallInterface {
+	public void run() {
+		System.out.println("run funciton in call class");
+	}
+}
+public class P019_interface {
+	public static void main(String[] args) {
+		
+	}
+}
