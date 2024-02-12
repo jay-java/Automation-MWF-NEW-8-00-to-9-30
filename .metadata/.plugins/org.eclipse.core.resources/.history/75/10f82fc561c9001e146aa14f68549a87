@@ -1,0 +1,17 @@
+package core;
+class Mobile{
+	int ram;
+	int storage;
+	String model;
+	String processor;
+	@Override
+	public String toString() {
+		return "Mobile [ram=" + ram + ", storage=" + storage + ", model=" + model + ", processor=" + processor + "]";
+	}
+	
+}
+public class P022_ListPractical {
+	public static void main(String[] args) {
+		
+	}
+}

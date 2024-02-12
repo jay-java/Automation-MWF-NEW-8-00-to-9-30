@@ -1,0 +1,12 @@
+package core;
+class Mobile{
+	int ram;
+	int storage;
+	String model;
+	String processor;
+}
+public class P022_ListPractical {
+	public static void main(String[] args) {
+		
+	}
+}

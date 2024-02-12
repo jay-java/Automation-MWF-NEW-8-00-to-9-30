@@ -1,0 +1,26 @@
+package core;
+class Mobile{
+	int ram;
+	int storage;
+	String model;
+	String processor;
+	
+	public Mobile(int ram, int storage, String model, String processor) {
+		super();
+		this.ram = ram;
+		this.storage = storage;
+		this.model = model;
+		this.processor = processor;
+	}
+
+	@Override
+	public String toString() {
+		return "Mobile [ram=" + ram + ", storage=" + storage + ", model=" + model + ", processor=" + processor + "]";
+	}
+	
+}
+public class P022_ListPractical {
+	public static void main(String[] args) {
+		Mobile m1 = new Mobile(8, 128, "Lenovo", "");
+	}
+}
