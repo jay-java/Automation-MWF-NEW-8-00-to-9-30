@@ -15,6 +15,7 @@ public class P005_DynamicWebTable {
 		List<WebElement> rows = driver.findElements(By.xpath("//table[@id='countries']/tbody/tr"));
 		System.out.println(rows.size());
 		List<WebElement> table_d = driver.findElements(By.xpath("//table[@id='countries']/tbody/tr[1]/td"));
+		int l=0;
 		for (int i = 2; i <= table_d.size(); i++) {
 			WebElement data = driver
 					.findElement(By.xpath("//table[@id='countries']/tbody/tr[1]/td[" + i + "]/h3/strong"));
