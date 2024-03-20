@@ -3,13 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="dependency.User">
+      <class name="listener.FB">
         <methods>
-          <include name="createAcconnt"/>
-          <include name="logout"/>
-          <include name="login"/>
+          <include name="titleCheck"/>
         </methods>
-      </class> <!-- dependency.User -->
+      </class> <!-- listener.FB -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

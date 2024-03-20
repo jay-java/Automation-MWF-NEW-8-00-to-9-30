@@ -10,8 +10,8 @@ INDEX VERSION 1.134+C:\Users\jay-pc\Seleniummm MWF 8-00 to 9-30\.metadata\.plugi
 598921730.index
 3938432491.index
 1163975361.index
-2098128129.index
 866451077.index
+2098128129.index
 3208849290.index
 1104649673.index
 200366583.index
@@ -22,8 +22,8 @@ INDEX VERSION 1.134+C:\Users\jay-pc\Seleniummm MWF 8-00 to 9-30\.metadata\.plugi
 3805050043.index
 1327121047.index
 2499577480.index
-3369118603.index
 277127066.index
+3369118603.index
 3144970793.index
 1727202035.index
 3286772195.index
@@ -43,12 +43,12 @@ INDEX VERSION 1.134+C:\Users\jay-pc\Seleniummm MWF 8-00 to 9-30\.metadata\.plugi
 12638584.index
 43030030.index
 2705690537.index
+721789274.index
 714143993.index
 221264813.index
-1372303545.index
 3119583375.index
 524198686.index
-721789274.index
+1372303545.index
 1845672436.index
 2933130940.index
 2650374863.index
@@ -85,4 +85,3 @@ INDEX VERSION 1.134+C:\Users\jay-pc\Seleniummm MWF 8-00 to 9-30\.metadata\.plugi
 3125483646.index
 487795457.index
 3861122220.index
-2752492677.index
